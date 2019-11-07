@@ -24,10 +24,10 @@ print "Author   : RE70-DECEMBER"
 print "github   : https://github.com/reaper4exg"
 print
 ip = raw_input("Place targets ip here : ")
-port = input("Port       : ")
+port = input("targets Port here       : ")
 
 os.system("clear")
-os.system("figlet Attack Sent")
+os.system("figlet Attack Sending")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
